@@ -1,0 +1,5 @@
+# Папка .vscode.
+/.vscode/
+
+# Исполняемый файл.
+/cmd/skill/skill
